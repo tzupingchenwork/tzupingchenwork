@@ -1,13 +1,13 @@
 
-        <h1>Hi 👋, I'm Andy.</h1>
+<h1>Hi 👋, I'm Andy.</h1>
 
     
-        <p>Hi, I'm Andy👋 As a web developer and designer, I focus on creating websites that are both beautiful and practical. I possess the expertise to transform complex functionalities into user-friendly interfaces, and I am passionate about using the latest technological trends to enhance website performance and user experience.  🌎 Coming from a multicultural background - Taiwan, I incorporate a unique international perspective in my designs.  📫 If you'd like to discuss web design or collaborate, feel free to contact me at andychentzupingwork@gmail.com.  🛠️ My skills include, but are not limited to:  HTML: Proficient in the basics of web structure, emphasizing semantic markup to ensure good SEO and accessibility. CSS: Skilled in layouts, animations, and responsive design, committed to creating visually appealing and user-friendly interfaces. JavaScript & Typescript: Enhancing website interactivity and implementing complex front-end functionalities using these dynamic languages. Vue & Svelte: Building efficient and dynamic single-page applications with these modern front-end frameworks. TailwindCSS: Rapidly developing consistent and maintainable web pages using this powerful utility-first framework. Python: This versatile language enables me to handle back-end development, data processing, and automation tasks. Flutter: I'm also proficient with this cross-platform framework for developing smooth mobile and desktop applications.</p>
+<p>Hi, I'm Andy👋 As a web developer and designer, I focus on creating websites that are both beautiful and practical. I possess the expertise to transform complex functionalities into user-friendly interfaces, and I am passionate about using the latest technological trends to enhance website performance and user experience.  🌎 Coming from a multicultural background - Taiwan, I incorporate a unique international perspective in my designs.  📫 If you'd like to discuss web design or collaborate, feel free to contact me at andychentzupingwork@gmail.com.  🛠️ My skills include, but are not limited to:  HTML: Proficient in the basics of web structure, emphasizing semantic markup to ensure good SEO and accessibility. CSS: Skilled in layouts, animations, and responsive design, committed to creating visually appealing and user-friendly interfaces. JavaScript & Typescript: Enhancing website interactivity and implementing complex front-end functionalities using these dynamic languages. Vue & Svelte: Building efficient and dynamic single-page applications with these modern front-end frameworks. TailwindCSS: Rapidly developing consistent and maintainable web pages using this powerful utility-first framework. Python: This versatile language enables me to handle back-end development, data processing, and automation tasks. Flutter: I'm also proficient with this cross-platform framework for developing smooth mobile and desktop applications.</p>
         
     
-        <h2>🚀 Languages and Tools I Use</h2>
-        <p>
-            <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<h2>🚀 Languages and Tools I Use</h2>
+<p>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
@@ -46,14 +46,14 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-        </p>
+</p>
 
     
-            <p>
-                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tzupingchenwork&" alt="tzupingchenwork" />
-            </p>
+<p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tzupingchenwork&" alt="tzupingchenwork" />
+</p>
 
         
-            <p>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tzupingchenwork&show_icons=true&locale=en&layout=compact" alt="tzupingchenwork" />
-            </p>
+<p>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tzupingchenwork&show_icons=true&locale=en&layout=compact" alt="tzupingchenwork" />
+</p>
