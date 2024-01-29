@@ -4,20 +4,20 @@
     <h1>Hi, I'm Andy👋</h1>
 </header>
 <section>
-        <p>As a web developer and designer, I focus on creating websites that are both beautiful and practical. I have the expertise to transform complex functionalities into user-friendly interfaces and am passionate about utilizing the latest technological trends to enhance website performance and user experience.</p>
+        <p>As a web developer, I focus on creating websites that are both beautiful and practical. I have the expertise to transform complex functionalities into user-friendly interfaces and am passionate about utilizing the latest technological trends to enhance website performance and user experience.</p>
         <p>🌎 From a multicultural background - Taiwan, which gives me a unique international perspective in design.</p>
         <p>📫 If you would like to discuss web design or collaborate, feel free to contact me at <a href="mailto:andychentzupingwork@gmail.com">andychentzupingwork@gmail.com</a>.</p>
     </section>
     <section>
         <h2>🛠️ My skills include, but are not limited to:</h2>
         <ul>
-            <li>HTML: Proficient in the fundamentals of web structure, focusing on semantic markup to ensure good SEO and accessibility.</li>
-            <li>CSS: Skilled in layout, animation, and responsive design, dedicated to creating visually appealing and user-friendly interfaces.</li>
-            <li>JavaScript & Typescript: Enhancing website interactivity and implementing complex front-end functionalities with these dynamic languages.</li>
-            <li>Vue & Svelte: Building efficient and dynamic single-page applications using these modern front-end frameworks.</li>
-            <li>TailwindCSS: Rapidly developing consistent and maintainable web pages with this powerful utility-first framework.</li>
-            <li>Python: This versatile language enables me to handle backend development, as well as data processing and automation tasks.</li>
-            <li>Flutter: I am also use  cross-platform framework for developing smooth mobile and desktop applications.</li>
+            <li><strong>HTML</strong>: Proficient in the fundamentals of web structure, focusing on semantic markup to ensure good SEO and accessibility.</li>
+            <li><strong>CSS</strong>: Skilled in layout, animation, and responsive design, dedicated to creating visually appealing and user-friendly interfaces.</li>
+            <li><strong>JavaScript & Typescript</strong>: Enhancing website interactivity and implementing complex front-end functionalities with these dynamic languages.</li>
+            <li><strong>Vue & Svelte</strong>: Building efficient and dynamic single-page applications using these modern front-end frameworks.</li>
+            <li><strong>TailwindCSS</strong>: Rapidly developing consistent and maintainable web pages with this powerful utility-first framework.</li>
+            <li><strong>Python</strong>: This versatile language enables me to handle backend development, as well as data processing and automation tasks.</li>
+            <li><strong>Flutter</strong>: I am also using cross-platform framework for developing smooth mobile and desktop applications.</li>
         </ul>
 </section>
 <footer>
